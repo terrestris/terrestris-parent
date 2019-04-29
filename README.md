@@ -8,7 +8,7 @@ In particular, to use it in SHOGun-based projects, be aware of the
 following:
 
 * uses Spring 5.1.5.RELEASE
-* uses Spring security 5.1.4.RELEASE
+* uses Spring security 5.1.5.RELEASE
 * uses Hibernate 5.3.4.Final
 * uses Geotools 19.1
 * uses Ehcache 3.5.2
