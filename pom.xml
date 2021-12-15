@@ -215,7 +215,7 @@
       <dependency>
         <groupId>org.deegree</groupId>
         <artifactId>deegree-core-commons</artifactId>
-        <version>3.4.0</version>
+        <version>3.4.20</version>
       </dependency>
       <dependency>
         <groupId>xalan</groupId>
