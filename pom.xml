@@ -54,7 +54,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <spring.version>5.1.20.RELEASE</spring.version>
+    <spring.version>5.3.18</spring.version>
     <spring-security.version>5.2.11.RELEASE</spring-security.version>
     <jackson.version>2.13.1</jackson.version>
     <geotools.version>19.1</geotools.version>
